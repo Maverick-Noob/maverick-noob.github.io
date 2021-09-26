@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Share on William - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/share/</link>
+    <description>Recent content in Share on William - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Sep 2021 21:11:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/share/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>写了一篇博客MyFirstPost</title>
+      <link>http://localhost:1313/posts/myfirstpost/</link>
+      <pubDate>Sat, 25 Sep 2021 21:11:42 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/myfirstpost/</guid>
+      <description>初次接触blog 配置Hugo过程中遇到的问题，自己解决有点头疼 安装Hugo 首先，在cmd中系统不知道如何工作，得安装Hugo需要GIT工具。</description>
+    </item>
+    
+  </channel>
+</rss>
